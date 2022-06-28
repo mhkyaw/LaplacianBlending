@@ -1,0 +1,2 @@
+Note: any files you leave here will be ignored by git!
+Consider this a temporary workspace for work in progress.
